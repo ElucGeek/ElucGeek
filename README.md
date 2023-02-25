@@ -6,7 +6,7 @@
 - 🪙 I run a Bitcoin node (Umbrel) and a BTCPay server for testing purpose
 - 💁🏻 I offer services to learn how start using Bitcoin, accept it as payement and other related help
 - ⛓ I'm elucblog.eth on the Ethereum blockchain
-- 📪 You can contact me on Matrix eluc@matrix.org, on Mastodon eluc@mastodon.xyz and Twitter @ElucTheG33K
+- 📪 You can contact me on Matrix eluc@matrix.org, on Nostr npub1eaadqhuwn80gatdml02u58q0nd65nx7wqur5je4jwa5gef0p6unqrx54mw, on Mastodon eluc@mastodon.xyz and Twitter @ElucTheG33K
 
 - ⌨️ I'm writting a blog on https://eluc.ch, have a look and leave me a comment!
 
