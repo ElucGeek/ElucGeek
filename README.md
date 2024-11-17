@@ -6,7 +6,7 @@
 - 🪙 I run a Bitcoin node (Umbrel), LNbits with Boltcards and a BTCPay server for testing purpose
 - 💁🏻 I offer services to learn how to start using Bitcoin, accept it as payement and other related support
 - ⛓ I'm elucblog.eth on the Ethereum blockchain but I tend to focus more on Bitcoin now.
-- 📪 You can contact me on Matrix eluc@matrix.org, on Nostr npub1eaadqhuwn80gatdml02u58q0nd65nx7wqur5je4jwa5gef0p6unqrx54mw, on Mastodon eluc@mastodon.xyz and Twitter @ElucTheG33K (but Elon try to block my account so I don't use it so often anymore)
+- 📪 You can contact me on Matrix eluc@matrix.org and on Nostr npub1eaadqhuwn80gatdml02u58q0nd65nx7wqur5je4jwa5gef0p6unqrx54mw, on Mastodon via nostr brigde, follow: @cf7ad05f8e99de8eadbbfbd5ca1c0f9b75499bce07074966b277688ca5e1d726@mostr.pub but NOT anymore on Twitter (Elon tried to block my account so I don't use it so often anymore)
 
 - ⌨️ I'm writting a blog on https://eluc.ch, have a look and leave me a comment!
 
